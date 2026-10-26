@@ -1,6 +1,6 @@
 # Hot Take Tower
 
-Hot Take Tower is a party game: guess what real polls found, win blocks for close guesses, and build a tower before it collapses. Play solo, daily, or with friends.
+Hot Take Tower is a party game: guess what real polls found, win blocks for close guesses, and build a tower before it collapses. Play solo, daily, or with  friends.
 
 **Play:** _add your live link here after deploying_
 
